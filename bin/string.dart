@@ -12,7 +12,7 @@ void main() {
   print(text);
 
   var name1 = firstName + " " + lastName;
-  var name2 = 'Another' ' Kaby' ' Lake';
+  var name2 = 'Another' ' Kaby' ' Byte';
 
   print(name1);
   print(name2);

@@ -1,6 +1,6 @@
 void main(){
 
-  var names = <String>['Another', 'Kaby', 'Lake'];
+  var names = <String>['Another', 'Kaby', 'Byte'];
 
   // for(var i = 0; i < names.length; i++){
   //   print(names[i]);
@@ -10,7 +10,7 @@ void main(){
     print(value);
   }
 
-  var namesSet = <String>{'Another', 'Kaby', 'Lake'};
+  var namesSet = <String>{'Another', 'Kaby', 'Byte'};
   for(var value in namesSet){
     print(value);
   }

@@ -9,12 +9,12 @@ void main(){
   var name = <String, String>{
     'first': 'Another',
     'middle': 'Kaby',
-    'last': 'Lake',
+    'last': 'Byte',
   };
 
   // name['first'] = 'Another';
   // name['middle'] = 'Kaby';
-  // name['last'] = 'Lake';
+  // name['last'] = 'Byte';
 
   print(name);
   print(name['first']);
